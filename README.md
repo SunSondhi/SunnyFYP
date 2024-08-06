@@ -20,4 +20,4 @@ The scope of the project involves the development and deployment of a software s
 
 ## Usage
 
-These files are exclusively working with the RB1 base and Jetson Orin present at University
+These files are exclusively working with the RB1 base and Jetson Orin present at University, but could be tweaked to work for any device, system or robot.
